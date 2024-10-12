@@ -1,0 +1,10 @@
+No Linux/macOS, você pode dar permissão de execução ao script e executá-lo no terminal:
+
+chmod +x setup.sh
+./setup.sh
+
+No Windows, você pode executar o script diretamente digitando no cmd:
+setup.bat
+
+Esses scripts vão criar um ambiente virtual chamado venv, 
+ativá-lo e instalar as dependências listadas no seu requirements.txt.
